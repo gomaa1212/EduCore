@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EduCore.Application.Services;
+using EduCore.View.Menus;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 namespace EduCore
@@ -7,7 +9,7 @@ namespace EduCore
     {
         static void Main(string[] args)
         {
-            
+            StudentService.studentService();
         }
     }
    

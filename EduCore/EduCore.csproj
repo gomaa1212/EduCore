@@ -35,10 +35,7 @@
   <ItemGroup>
     <Folder Include="Application\Interfaces\" />
     <Folder Include="Application\DTOs\" />
-    <Folder Include="Application\Services\" />
-    <Folder Include="Console\Menus\" />
-    <Folder Include="Console\Helpers\" />
-    <Folder Include="Infrastructure\Repositories\" />
+    <Folder Include="View\Helpers\" />
   </ItemGroup>
 
 </Project>

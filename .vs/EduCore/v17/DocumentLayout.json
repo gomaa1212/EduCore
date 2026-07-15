@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\configurations\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\configurations\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\view\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\view\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\view\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\view\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\seed\\studentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\seed\\studentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\seed\\instructorseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\seed\\instructorseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\migrations\\20260715174915_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\migrations\\20260715174915_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\seed\\enrollmentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\seed\\enrollmentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\configurations\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\configurations\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\seed\\studentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\seed\\studentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\seed\\instructorseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\seed\\instructorseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\seed\\departmentseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,24 +101,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "EduCore\\Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "EduCore\\Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAlwDYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T20:13:40.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMenu.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\StudentMenu.cs",
+              "RelativeDocumentMoniker": "EduCore\\View\\Menus\\StudentMenu.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\StudentMenu.cs",
+              "RelativeToolTip": "EduCore\\View\\Menus\\StudentMenu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T19:47:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\MainMenu.cs",
+              "RelativeDocumentMoniker": "EduCore\\View\\Menus\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\MainMenu.cs",
+              "RelativeToolTip": "EduCore\\View\\Menus\\MainMenu.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T19:31:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "EduCore\\Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T17:57:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EduCore\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EduCore\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T17:49:25.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260715174915_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Migrations\\20260715174915_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EduCore\\Migrations\\20260715174915_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Migrations\\20260715174915_InitialCreate.cs",
+              "RelativeToolTip": "EduCore\\Migrations\\20260715174915_InitialCreate.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T17:49:15.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\appsettings.json",
+              "RelativeDocumentMoniker": "EduCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\appsettings.json",
+              "RelativeToolTip": "EduCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T17:47:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Student.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Student.cs",
               "RelativeToolTip": "EduCore\\Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T16:51:57.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "StudentSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\StudentSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\StudentSeed.cs",
@@ -98,25 +217,24 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Seed\\StudentSeed.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwC0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:50:28.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:50:28.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "EnrollmentSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\EnrollmentSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\EnrollmentSeed.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\EnrollmentSeed.cs",
               "RelativeToolTip": "EduCore\\Infrastructure\\Seed\\EnrollmentSeed.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAkwA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T16:42:39.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "EnrollmentStatus.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Enums\\EnrollmentStatus.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Enums\\EnrollmentStatus.cs",
@@ -124,12 +242,11 @@
               "RelativeToolTip": "EduCore\\Domain\\Enums\\EnrollmentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:41:58.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:41:58.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "CourseConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\CourseConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\CourseConfiguration.cs",
@@ -137,12 +254,11 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Configurations\\CourseConfiguration.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:39:59.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:39:59.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "CourseSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\CourseSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\CourseSeed.cs",
@@ -150,12 +266,11 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Seed\\CourseSeed.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAkwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:34:55.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:34:55.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Instructor.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Instructor.cs",
@@ -163,12 +278,11 @@
               "RelativeToolTip": "EduCore\\Domain\\Entities\\Instructor.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:21:27.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:21:27.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "InstructorSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\InstructorSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\InstructorSeed.cs",
@@ -176,38 +290,37 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Seed\\InstructorSeed.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:19:44.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:19:44.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "StudentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\StudentConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\StudentConfiguration.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\StudentConfiguration.cs",
               "RelativeToolTip": "EduCore\\Infrastructure\\Configurations\\StudentConfiguration.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T16:16:27.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "InstructorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\InstructorConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\InstructorConfiguration.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\InstructorConfiguration.cs",
               "RelativeToolTip": "EduCore\\Infrastructure\\Configurations\\InstructorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T16:16:21.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "EnrollmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\EnrollmentConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\EnrollmentConfiguration.cs",
@@ -215,12 +328,11 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Configurations\\EnrollmentConfiguration.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:15:58.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:15:58.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\DepartmentConfiguration.cs",
@@ -228,12 +340,11 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Configurations\\DepartmentConfiguration.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:08:39.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:08:39.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "DepartmentSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\DepartmentSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\DepartmentSeed.cs",
@@ -241,12 +352,11 @@
               "RelativeToolTip": "EduCore\\Infrastructure\\Seed\\DepartmentSeed.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T16:00:12.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T16:00:12.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Course.cs",
@@ -258,20 +368,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Program.cs",
               "RelativeDocumentMoniker": "EduCore\\Program.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Program.cs",
               "RelativeToolTip": "EduCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T22:14:39.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Program.cs",
               "RelativeDocumentMoniker": "..\\revision\\revision\\Program.cs",

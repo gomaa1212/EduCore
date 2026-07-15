@@ -52,5 +52,5 @@ namespace EduCore.Infrastructure.Seed
           };
         }
     }
-    }
+    
 }
