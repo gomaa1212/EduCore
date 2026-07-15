@@ -1,4 +1,5 @@
 ﻿using EduCore.Domain.Entities;
+using EduCore.Infrastructure.Seed;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -18,6 +19,7 @@ namespace EduCore.Infrastructure.Configurations
             builder.Property(x=> x.Name).IsRequired(true).HasMaxLength(100);
             builder.HasIndex(x=>x.Name).IsUnique();
             builder.Property(x=>x.Description).IsRequired(false).HasMaxLength(300);
+            builder.HasData(DepartmentSeed.GetDepartmentData());
         }
     }
 }

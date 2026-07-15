@@ -1,4 +1,5 @@
 ﻿using EduCore.Domain.Entities;
+using EduCore.Infrastructure.Seed;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -32,6 +33,7 @@ namespace EduCore.Infrastructure.Configurations
                 .WithMany(x => x.Courses)
                 .HasForeignKey(x => x.InstructorId)
                 .OnDelete(DeleteBehavior.Restrict);
+            builder.HasData(CourseSeed.GetCourseData());
 
             
         }

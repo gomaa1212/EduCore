@@ -1,26 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\",
+  "WorkspaceRootPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\revision\\revision\\domain\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\EduCore.csproj|solutionrelative:revision\\domain\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\revision\\revision\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\EduCore.csproj|solutionrelative:revision\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\revision.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\revision\\revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\revision.csproj|solutionrelative:revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\revision\\revision\\educore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\EduCore.csproj|solutionrelative:revision\\educore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\revision.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\revision\\revision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C0DD282A-7EDF-49DF-A318-FED7D7E70417}|revision\\revision.csproj|solutionrelative:revision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +21,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Domain\\Entities\\Instructor.cs",
-              "RelativeDocumentMoniker": "revision\\Domain\\Entities\\Instructor.cs",
-              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Domain\\Entities\\Instructor.cs",
-              "RelativeToolTip": "revision\\Domain\\Entities\\Instructor.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T22:02:57.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Domain\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "revision\\Domain\\Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Domain\\Entities\\Department.cs",
-              "RelativeToolTip": "revision\\Domain\\Entities\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "EduCore\\Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T21:57:07.595Z",
+              "WhenOpened": "2026-07-14T22:14:46.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "revision.csproj",
-              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj",
-              "RelativeDocumentMoniker": "revision\\EduCore.csproj",
-              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj",
-              "RelativeToolTip": "revision\\EduCore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-11T16:49:22.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\appsettings.json",
-              "RelativeDocumentMoniker": "revision\\appsettings.json",
-              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\appsettings.json",
-              "RelativeToolTip": "revision\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-11T16:50:00.211Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Program.cs",
+              "RelativeDocumentMoniker": "EduCore\\Program.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Program.cs",
+              "RelativeToolTip": "EduCore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T22:14:39.231Z",
               "EditorCaption": ""
             },
             {
@@ -89,13 +54,12 @@
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Program.cs",
-              "RelativeDocumentMoniker": "revision\\Program.cs",
+              "RelativeDocumentMoniker": "..\\revision\\revision\\Program.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Program.cs",
-              "RelativeToolTip": "revision\\Program.cs",
+              "RelativeToolTip": "..\\revision\\revision\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T14:35:26.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T14:35:26.769Z"
             }
           ]
         }

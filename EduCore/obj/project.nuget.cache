@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ElPkjlABFm0=",
+  "dgSpecHash": "XAFehhFjXU4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj",
+  "projectFilePath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\EduCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdoe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\abdoe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,4 +1,5 @@
 ﻿using EduCore.Domain.Entities;
+using EduCore.Infrastructure.Seed;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -20,8 +21,9 @@ namespace EduCore.Infrastructure.Configurations
             builder.HasIndex(x => x.Email).IsUnique();
             builder.Property(x => x.Phone).IsRequired().HasMaxLength(20);
             builder.HasIndex(x => x.Phone).IsUnique();
-            builder.Property(x => x.BirthDate).IsRequired().HasColumnType("date");
+            builder.Property(x => x.BirthDate).IsRequired();
             builder.Property(x=>x.RegisterDate).HasDefaultValueSql("GetDate()");
+            builder.HasData(StudentSeed.GetStudentData());
 
         }
     }

@@ -12,7 +12,7 @@ namespace EduCore.Domain.Entities
         public required string FullName { get; set; }
         public required string Email { get; set; }
         public required string Phone { get; set; }
-        public DateOnly BirthDate { get; set; }
+        public DateTime BirthDate { get; set; }
         public DateTime RegisterDate { get; set; }
         public ICollection<Enrollment>? Enrollments { get; set; }=new List<Enrollment>();
 

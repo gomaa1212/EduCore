@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj": {}
+    "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\EduCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj": {
+    "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\EduCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj",
+        "projectUniqueName": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\EduCore.csproj",
         "projectName": "EduCore",
-        "projectPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\EduCore.csproj",
+        "projectPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\EduCore.csproj",
         "packagesPath": "C:\\Users\\abdoe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\obj\\",
+        "outputPath": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

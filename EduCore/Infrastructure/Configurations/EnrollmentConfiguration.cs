@@ -1,5 +1,6 @@
 ﻿using EduCore.Domain.Entities;
 using EduCore.Domain.Enums;
+using EduCore.Infrastructure.Seed;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
@@ -33,7 +34,7 @@ namespace EduCore.Infrastructure.Configurations
                 .WithMany(x=>x.Enrollments)
                 .HasForeignKey(x=>x.CourseId)
                 .OnDelete(DeleteBehavior.Cascade);
-
+            builder.HasData(EnrollmentSeed.GetEnrollmentData());
         }
     }
 }
