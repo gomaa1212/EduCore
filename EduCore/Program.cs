@@ -9,7 +9,8 @@ namespace EduCore
     {
         static void Main(string[] args)
         {
-            MainService.mainService();
+            //MainService.mainService();
+            Reports.Report2();
         }
     }
    
