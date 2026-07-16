@@ -9,7 +9,7 @@ namespace EduCore
     {
         static void Main(string[] args)
         {
-            StudentService.studentService();
+            MainService.mainService();
         }
     }
    

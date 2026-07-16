@@ -30,7 +30,7 @@ namespace EduCore.View.Menus
             Console.WriteLine("3. Phone");
             Console.WriteLine("4. Birth Date");
             Console.WriteLine("0. Exist");
-            Console.Write("Enter Your Choice : ");
+            Console.Write("\nEnter Your Choice : ");
             int choice = int.Parse(Console.ReadLine());
             return choice;
         }

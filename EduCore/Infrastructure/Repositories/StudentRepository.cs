@@ -70,6 +70,10 @@ namespace EduCore.Infrastructure.Repositories
         {
             var db = new AppDbContext();
             var student=db.Students.Find(id);
+            if (student is null)
+            {
+                return null;
+            }
             return student;
         }
         public static List<Student> GetAll()

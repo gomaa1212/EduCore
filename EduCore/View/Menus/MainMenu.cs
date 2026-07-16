@@ -20,6 +20,7 @@ namespace EduCore.View.Menus
             Console.WriteLine();
             Console.Write("Enter Your Choice : ");
             int choice = int.Parse(Console.ReadLine());
+            Console.WriteLine();
             return choice;
         }
     }
