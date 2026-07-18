@@ -1,4 +1,9 @@
 # 🎓 EduCore
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![C#](https://img.shields.io/badge/C%23-Language-blue)
+![Entity Framework Core](https://img.shields.io/badge/EF-Core-green)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A Console-based Learning Management System (LMS) built with **C#**, **.NET**, **Entity Framework Core**, and **SQL Server**.
 
@@ -73,6 +78,15 @@ EduCore
 ├── Program.cs
 └── appsettings.json
 ```
+
+# 🏛️ Architecture
+
+The project follows a layered architecture:
+
+- **Domain** → Entities and Enums
+- **Infrastructure** → EF Core, Repositories, Configurations, Seed Data
+- **Application** → Business Logic and Services
+- **View** → Console Menus and User Interaction
 
 ---
 
@@ -189,6 +203,17 @@ or simply open the solution using Visual Studio.
 
 ---
 
+# 📋 Requirements
+
+Before running the project, make sure you have installed:
+
+- Visual Studio 2022
+- .NET 8 SDK
+- SQL Server
+- SQL Server Management Studio (Optional)
+
+  ---
+  
 # ⚙️ Getting Started
 
 ## 1. Clone the Repository
@@ -299,16 +324,16 @@ During this project I practiced:
 
 # 🔮 Future Improvements
 
-- ASP.NET Core MVC
-- Dependency Injection
-- Authentication & Authorization
-- Generic Repository
-- Async Repository
-- Validation
-- Search & Filtering
-- Sorting
-- Unit Testing
-- Logging
+- [ ] Convert the project to ASP.NET Core MVC
+- [ ] Implement Dependency Injection
+- [ ] Implement Generic Repository
+- [ ] Convert repositories to Async
+- [ ] Add Authentication & Authorization
+- [ ] Add Validation
+- [ ] Add Search & Filtering
+- [ ] Add Sorting
+- [ ] Add Unit Testing
+- [ ] Add Logging
 
 ---
 
