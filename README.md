@@ -98,13 +98,7 @@ Implemented using:
 
 ## ER Diagram
 
-```text
-ERD.png
-```
-
-```md
 ![ERD](ERD.png)
-```
 
 ---
 
@@ -112,45 +106,42 @@ ERD.png
 
 ## Main Menu
 
-```md
 ![Main Menu](ScreenShots/MainMenu.png)
-```
 
 ---
 
 ## Student Menu
 
-```md
-![Student Menu](screenshots/StudentMenu.png)
-```
+![Student Menu](ScreenShots/StudentMenu.png)
 
 ---
 
 ## Dashboard
 
-```md
-![Dashboard](screenshots/Dashboard.png)
-```
+![Dashboard](ScreenShots/Dashboard.png)
 
 ---
 
 ## Reports
 
-```md
-![Report 1](screenshots/Report1.png)
+![Report 1](ScreenShots/Report1.png)
 
-![Report 2](screenshots/Report2.png)
-```
+![Report 2](ScreenShots/Report2.png)
+
+![Report 1](ScreenShots/Report3.png)
+
+![Report 2](ScreenShots/Report4.png)
+
 
 ---
 
 ## Add Student
 
-```md
-![Add Student](screenshots/AddStudent.png)
-```
+![Add Student](ScreenShots/AddStudent.png)
+
 
 ---
+
 
 # 🛠️ Technologies Used
 
