@@ -19,6 +19,9 @@ namespace EduCore.Domain.Entities
         public Instructor? Instructor { get; set; }
         public ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
 
-
+        public override string ToString()
+        {
+            return $"[Id: {Id,-5} | Title: {Title,-25} | Hours: {Hours,-3} hrs | Price: {Price,-8:C} | DeptId: {DepartmentId,-4} | InstructorId: {InstructorId,-4}]";
+        }
     }
 }

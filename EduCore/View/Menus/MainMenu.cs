@@ -16,6 +16,7 @@ namespace EduCore.View.Menus
             Console.WriteLine("3. Instructors");
             Console.WriteLine("4. Departments");
             Console.WriteLine("5. Enrollments");
+            Console.WriteLine("6. Reports");
             Console.WriteLine("0. Exist");
             Console.WriteLine();
             Console.Write("Enter Your Choice : ");

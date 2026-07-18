@@ -17,6 +17,10 @@ namespace EduCore.Application.Services
             {
                 StudentService.studentService();
             }
+            if (choice == 6)
+            {
+                Reports.ExecuteReports();
+            }
             else if (choice == 0)
             {
                 return;

@@ -15,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\application\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\view\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\view\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\view\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|solutionrelative:educore\\view\\menus\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{593FAA6A-2FBA-E8E5-2049-A7BA36AE0A31}|EduCore\\EduCore.csproj|c:\\users\\abdoe\\onedrive\\desktop\\mvc\\educore\\educore\\view\\menus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,11 +117,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "EduCore\\Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T04:11:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Enrollment.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Enrollment.cs",
@@ -125,8 +142,7 @@
               "RelativeToolTip": "EduCore\\Domain\\Entities\\Enrollment.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T20:48:29.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T20:48:29.171Z"
             },
             {
               "$type": "Document",
@@ -136,7 +152,7 @@
               "RelativeDocumentMoniker": "EduCore\\Application\\Services\\Reports.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Application\\Services\\Reports.cs",
               "RelativeToolTip": "EduCore\\Application\\Services\\Reports.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCkAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwMsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T20:41:43.39Z",
               "EditorCaption": ""
@@ -149,27 +165,27 @@
               "RelativeDocumentMoniker": "EduCore\\Application\\Services\\MainService.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Application\\Services\\MainService.cs",
               "RelativeToolTip": "EduCore\\Application\\Services\\MainService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T19:40:18.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Application\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "EduCore\\Application\\Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Application\\Services\\StudentService.cs",
               "RelativeToolTip": "EduCore\\Application\\Services\\StudentService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwIoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwIUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T20:13:40.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StudentMenu.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\StudentMenu.cs",
               "RelativeDocumentMoniker": "EduCore\\View\\Menus\\StudentMenu.cs",
@@ -181,19 +197,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\MainMenu.cs",
               "RelativeDocumentMoniker": "EduCore\\View\\Menus\\MainMenu.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\View\\Menus\\MainMenu.cs",
               "RelativeToolTip": "EduCore\\View\\Menus\\MainMenu.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T19:31:59.992Z"
+              "WhenOpened": "2026-07-15T19:31:59.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Repositories\\StudentRepository.cs",
@@ -205,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "EduCore\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -217,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20260715174915_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Migrations\\20260715174915_InitialCreate.cs",
               "RelativeDocumentMoniker": "EduCore\\Migrations\\20260715174915_InitialCreate.cs",
@@ -229,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\appsettings.json",
               "RelativeDocumentMoniker": "EduCore\\appsettings.json",
@@ -247,14 +264,14 @@
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Student.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Student.cs",
               "RelativeToolTip": "EduCore\\Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBMAAADPAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T16:51:57.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "StudentSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\StudentSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\StudentSeed.cs",
@@ -266,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EnrollmentSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\EnrollmentSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\EnrollmentSeed.cs",
@@ -278,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "EnrollmentStatus.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Enums\\EnrollmentStatus.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Enums\\EnrollmentStatus.cs",
@@ -290,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CourseConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\CourseConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\CourseConfiguration.cs",
@@ -302,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CourseSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\CourseSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\CourseSeed.cs",
@@ -314,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Instructor.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Instructor.cs",
@@ -326,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "InstructorSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\InstructorSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\InstructorSeed.cs",
@@ -338,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "StudentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\StudentConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\StudentConfiguration.cs",
@@ -350,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "InstructorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\InstructorConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\InstructorConfiguration.cs",
@@ -362,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "EnrollmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\EnrollmentConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\EnrollmentConfiguration.cs",
@@ -374,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Configurations\\DepartmentConfiguration.cs",
@@ -386,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DepartmentSeed.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Infrastructure\\Seed\\DepartmentSeed.cs",
               "RelativeDocumentMoniker": "EduCore\\Infrastructure\\Seed\\DepartmentSeed.cs",
@@ -398,13 +415,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Course.cs",
               "RelativeDocumentMoniker": "EduCore\\Domain\\Entities\\Course.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Domain\\Entities\\Course.cs",
               "RelativeToolTip": "EduCore\\Domain\\Entities\\Course.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T22:14:46.285Z",
               "EditorCaption": ""
@@ -417,14 +434,14 @@
               "RelativeDocumentMoniker": "EduCore\\Program.cs",
               "ToolTip": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\EduCore\\EduCore\\Program.cs",
               "RelativeToolTip": "EduCore\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T22:14:39.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdoe\\OneDrive\\Desktop\\MVC\\revision\\revision\\Program.cs",
               "RelativeDocumentMoniker": "..\\revision\\revision\\Program.cs",

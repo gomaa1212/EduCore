@@ -17,7 +17,7 @@ namespace EduCore.Domain.Entities
         public ICollection<Enrollment>? Enrollments { get; set; }=new List<Enrollment>();
         public override string ToString()
         {
-            return $"Id: {Id}          , Name: {FullName}     , Email: {Email}    , Phone: {Phone}     , BirthDate: {BirthDate.ToShortDateString()}     , RegisterDate: {RegisterDate.ToShortDateString()}         ";
+            return $"[Id: {Id,-5} | Name: {FullName,-20} | Email: {Email,-25} | Phone: {Phone,-15} | Birth: {BirthDate:yyyy-MM-dd} | Registered: {RegisterDate:yyyy-MM-dd}]";
         }
 
     }
