@@ -128,9 +128,9 @@ Implemented using:
 
 ![Report 2](ScreenShots/Report2.png)
 
-![Report 1](ScreenShots/Report3.png)
+![Report 3](ScreenShots/Report3.png)
 
-![Report 2](ScreenShots/Report4.png)
+![Report 4](ScreenShots/Report4.png)
 
 
 ---
@@ -194,7 +194,7 @@ or simply open the solution using Visual Studio.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/EduCore.git
+git clone https://github.com/gomaa1212/EduCore.git
 ```
 
 ---
@@ -318,12 +318,9 @@ During this project I practiced:
 
 .NET Backend Developer
 
-GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
-
+https://www.linkedin.com/in/abdelrahman-mohammed-87445a284/
 ---
 
 # ⭐ If you like this project
