@@ -56,37 +56,45 @@ namespace EduCore.Infrastructure.Repositories
         }
         public static bool DeleteStudent(int id)
         {
-            var db=new AppDbContext();
-            var student = db.Students.Find(id);
-            if(student is null)
+            using (var db = new AppDbContext())
             {
-                return false;
+                var student = db.Students.Find(id);
+                if (student is null)
+                {
+                    return false;
+                }
+                db.Students.Remove(student);
+                db.SaveChanges();
+                return true;
             }
-            db.Students.Remove(student);
-            db.SaveChanges();
-            return true;
         }
         public static Student GetById(int id)
         {
-            var db = new AppDbContext();
-            var student=db.Students.Find(id);
-            if (student is null)
+            using (var db = new AppDbContext())
             {
-                return null;
+                var student = db.Students.Find(id);
+                return student;
             }
-            return student;
         }
-        public static List<Student> GetAll()
+        public static List<Student> GetAll(int page , int pageSize)
         {
-            var db=new AppDbContext();
-            var students=db.Students.ToList();
-            return students;
+            using (var db = new AppDbContext())
+            {
+                if (pageSize<1)
+                {
+                    return new List<Student>();
+                }
+                var students = db.Students.Skip(pageSize*(page-1)).Take(pageSize).ToList();
+                return students;
+            }
         }
         public static List<Student> SearchByName(string name)
         {
-            var db = new AppDbContext();
-            var students= db.Students.Where(x=>x.FullName.ToUpper().Contains(name.ToUpper())).ToList();
-            return students;
+            using (var db = new AppDbContext())
+            {
+                var students = db.Students.Where(x => x.FullName.ToUpper().Contains(name.ToUpper())).ToList();
+                return students;
+            }
         }
     } 
 }

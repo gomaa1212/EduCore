@@ -110,10 +110,49 @@ namespace EduCore.Application.Services
                     }
                     break;
                     case 5:
-                        var students = StudentRepository.GetAll();
-                        foreach (var s in students)
+                        Console.Write("Enter page number : ");
+                        int page = int.Parse(Console.ReadLine());
+                        Console.WriteLine();
+                        while (page != 0)
                         {
-                            Console.WriteLine(s);
+                            var students = StudentRepository.GetAll(page, 5);
+                        if (!students.Any())
+                        {
+                            Console.WriteLine($"\n--- No students found at page {page} ---\n");
+                            if (page>1)
+                            {
+                                page--;
+                                Console.ReadKey();
+                                Console.Clear();
+                                continue;
+                            }
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine($"==================== PAGE {page} ====================");
+                            Console.WriteLine(new string('-', 75));
+                            foreach (var s in students)
+                            {
+                                Console.WriteLine(s);
+                            }
+                            Console.WriteLine();
+                            Console.Write("Press > For next Page and < for previous page and anything for exist : ");
+                            char press = char.Parse(Console.ReadLine());
+                            if (press == '>')
+                            {
+                                page++;
+                            }
+                            else if(press =='<')
+                            {
+                                page--;
+                            }
+                            else
+                            {
+                                break;
+                            }
+                            Console.Clear();
+                        }
                         }
                     break;
                     case 6:
