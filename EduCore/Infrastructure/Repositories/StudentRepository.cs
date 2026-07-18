@@ -1,4 +1,5 @@
-﻿using EduCore.Domain.Entities;
+﻿using EduCore.Application.Interfaces;
+using EduCore.Domain.Entities;
 using EduCore.Infrastructure.Data;
 using EduCore.Infrastructure.Seed;
 using System;
@@ -10,9 +11,9 @@ using System.Threading.Tasks;
 namespace EduCore.Infrastructure.Repositories
 {
 
-    public static class StudentRepository
+    public  class StudentRepository : IStudentRepository
     {
-        public static Student Exist(string Eamil)
+        public  Student Exist(string Eamil)
         {
             
             using (var db = new AppDbContext())
@@ -23,7 +24,7 @@ namespace EduCore.Infrastructure.Repositories
             }
 
         }
-        public static bool AddStudent(Student student)
+        public  bool AddStudent(Student student)
         {
             using (var db = new AppDbContext())
             {
@@ -36,7 +37,7 @@ namespace EduCore.Infrastructure.Repositories
                 return true;
             }
         }
-        public static bool UpdateStudent(Student student,string Email)
+        public  bool UpdateStudent(Student student,string Email)
         {
             using (var db = new AppDbContext())
             {
@@ -54,7 +55,7 @@ namespace EduCore.Infrastructure.Repositories
                 return true;
             }
         }
-        public static bool DeleteStudent(int id)
+        public  bool DeleteStudent(int id)
         {
             using (var db = new AppDbContext())
             {
@@ -68,7 +69,7 @@ namespace EduCore.Infrastructure.Repositories
                 return true;
             }
         }
-        public static Student GetById(int id)
+        public  Student GetById(int id)
         {
             using (var db = new AppDbContext())
             {
@@ -76,7 +77,7 @@ namespace EduCore.Infrastructure.Repositories
                 return student;
             }
         }
-        public static List<Student> GetAll(int page , int pageSize)
+        public  List<Student> GetAll(int page , int pageSize)
         {
             using (var db = new AppDbContext())
             {
@@ -84,11 +85,11 @@ namespace EduCore.Infrastructure.Repositories
                 {
                     return new List<Student>();
                 }
-                var students = db.Students.Skip(pageSize*(page-1)).Take(pageSize).ToList();
+                var students = db.Students.OrderBy(x=>x.Id).Skip(pageSize*(page-1)).Take(pageSize).ToList();
                 return students;
             }
         }
-        public static List<Student> SearchByName(string name)
+        public  List<Student> SearchByName(string name)
         {
             using (var db = new AppDbContext())
             {

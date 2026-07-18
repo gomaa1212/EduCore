@@ -32,10 +32,4 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="10.0.9" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Application\Interfaces\" />
-    <Folder Include="Application\DTOs\" />
-    <Folder Include="View\Helpers\" />
-  </ItemGroup>
-
 </Project>

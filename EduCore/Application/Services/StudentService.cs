@@ -13,6 +13,7 @@ namespace EduCore.Application.Services
     {
         public static void studentService()
         {
+                var StudentRepository = new StudentRepository();
                 var student = new Student();
                 int choice = StudentMenu.studentMenu();
                 switch (choice)
